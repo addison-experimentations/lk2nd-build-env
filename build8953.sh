@@ -1,4 +1,4 @@
-git clone https://github.com/addison-experimentations/lk2nd-build-env
+git clone https://github.com/addison-experimentations/lk2nd-build-envhttps://github.com/addison-experimentations/lk2nd-build-env/blob/main/build8953.sh
 cd lk2nd-build-env
 bash envsetup.sh
 git clone https://github.com/addison-experimentations/lk2nd
