@@ -8,4 +8,4 @@ make TOOLCHAIN_PREFIX=arm-none-eabi- msm8953-secondary
 
 
 
-rm -rf /opt/gcc-arm-none-eabi
+sudo rm -rf /opt/gcc-arm-none-eabi
